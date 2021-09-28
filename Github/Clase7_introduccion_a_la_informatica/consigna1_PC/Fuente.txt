@@ -1,0 +1,23 @@
+Fuente ASUS ROG STRIX 750G 80 Plus Gold 750W Full Modula
+
+CARACTERISTICAS GENERALES
+Watts Nominal
+750 w
+Watts Reales
+744 w
+Formato
+ATX
+Compatible Con Posición Inferior
+Si
+Certificacion 80 Plus
+80 PLUS Gold
+Modo Híbrido
+Si
+Tipo De Cableado
+Full Modular
+Ampers En Linea +12V
+62 a
+Fuente Digital
+No
+Color
+Negro

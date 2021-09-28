@@ -1,0 +1,25 @@
+5 fotos
+Gabinete Corsair 280X RGB TG White MATX
+CARACTERISTICAS GENERALES
+Factor Mother
+ITX,M-ATX
+Fuente En Posición Superior
+No
+Con Ventana
+Si
+Tipo De Ventana
+Vidrio templado
+Colores
+Blanco
+
+DIMENSIONES
+Ancho
+276 mm
+Alto
+351 mm
+Profundidad
+398 mm
+Largo Máximo Vga
+300 mm
+Altura Máxima Del Cooler Cpu
+150.00 mm

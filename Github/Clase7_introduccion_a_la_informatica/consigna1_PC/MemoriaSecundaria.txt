@@ -1,0 +1,33 @@
+Disco Sólido SSD Kingston 480GB A400 500MB/s2
+CARACTERISTICAS GENERALES
+Tipo De Conexión
+SATA
+Consumo
+5 w
+Tipo De Disco
+Sólido
+ALMACENAMIENTO
+Capacidad
+480 gb
+RENDIMIENTO
+Memoria Cache
+0 mb
+Velocidad De Rotación
+0 rmp
+Tasa De Transferencia
+6.0 gb/s
+Vel Lectura Secuencial
+500 mb/s
+Vel Escritura Secuencial
+450 mb/s
+Vel Lectura Random
+90000 iops
+Vel Escritura Random
+80000 iops
+Vida Útil
+1000000 horas
+Terabytes Written
+160 tb
+DIMENSIONES
+Factor
+2.5

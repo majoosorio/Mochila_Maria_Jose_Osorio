@@ -1,0 +1,29 @@
+Procesador Intel Core i7 9700K 4.9GHz Turbo 1151 Coffee Lake
+
+CARACTERISTICAS GENERALES
+Modelo
+Intel Core i7 9700K
+Socket
+1151 Coffe Lake
+Núcleos
+8
+Frecuencia
+3600.00 mhz
+Proceso De Fabricación
+14 nm
+Chipset Gpu
+Intel HD Graphics 630
+Hilos
+8
+Frecuencia Turbo
+4900 mhz
+Familia
+Intel Core i7
+COOLERS Y DISIPADORES
+Tdp
+95 w
+Incluye Cooler Cpu
+No
+MEMORIA
+L3
+12 mb

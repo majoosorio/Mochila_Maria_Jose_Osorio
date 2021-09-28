@@ -1,0 +1,9 @@
+Mother Gigabyte H310M-H LGA 1151 8va gen
+
+CARACTERISTICAS GENERALES
+Plataforma
+Intel
+Socket
+1151 Coffe Lake
+Chipsets Principal
+Intel H310

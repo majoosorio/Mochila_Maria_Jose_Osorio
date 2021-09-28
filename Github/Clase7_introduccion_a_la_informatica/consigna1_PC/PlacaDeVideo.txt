@@ -1,0 +1,15 @@
+
+Placa de Video Asrock RX 570 8GB Phantom Gaming D
+CARACTERISTICAS GENERALES
+Tipo
+pcie
+Chipset Gpu
+RX 570
+Entrada Video
+No
+Puente Para Sli/croosfirex
+Crossfire
+Doble Puente
+No
+Características Especiales
+Otras tecnologías
